@@ -1,3 +1,0 @@
-sig-storage/csi-node-driver-registrar:v2.5.1
-sig-storage/livenessprobe:v2.7.0
-sig-storage/nfsplugin:v4.1.0
