@@ -1,4 +1,3 @@
 csi-node-driver-registrar:v2.5.1
 livenessprobe:v2.7.0
 nfsplugin:v4.1.0
-
